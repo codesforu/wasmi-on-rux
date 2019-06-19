@@ -1,6 +1,6 @@
 [submodule "rux"]
 	path = rux
-	url = https://source.that.world/source/rux.git
+	url = https://github.com/codesforu/rux.git
 [submodule "wasmi"]
 	path = wasmi
-	url = https://github.com/sorpaas/wasmi
+	url = https://github.com/codesforu/wasmi
